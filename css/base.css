@@ -1,0 +1,13 @@
+* {
+  font-family: tahoma;
+}
+
+.tac { text-align: center; }
+.ltr { direction: ltr; }
+
+.pray{
+  color: #009706;
+  font-family: tahoma;
+  font-size: 25pt;
+
+}
